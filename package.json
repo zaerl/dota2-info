@@ -1,0 +1,32 @@
+{
+  "name": "dota2-info",
+  "version": "0.1.0",
+  "description": "Retrieve info about Dota 2 heroes",
+  "main": "lib",
+  "scripts": {
+    "test": "eslint lib && ava",
+    "generate": "node lib/load-heroes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaerl/dota2-info.git"
+  },
+  "keywords": [
+    "dota2",
+    "steam"
+  ],
+  "author": "Francesco Bigiarini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaerl/dota2-info/issues"
+  },
+  "homepage": "https://github.com/zaerl/dota2-info#readme",
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "vdf": "0.0.2",
+    "where-is-steam": "^0.1.0"
+  },
+  "engines": {
+    "node": ">=4.3.2"
+  }
+}

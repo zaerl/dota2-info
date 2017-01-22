@@ -48,7 +48,8 @@ The `getHeroes(opts)` accept various options:
         code: <string>, // npc_dota_hero_antimage, npc_dota_hero_axe, etc.
         name: <string>, // Anti-Mage, Axe and aliases such as am, qop, etc.
         roles: <object>, // { carry: 1/2/3 } Multiple roles can be specified
-        // roles: carry, escape, nuker, initiator, durable, disabler, jungler
+        // roles: carry, support, nuker, disabler, jungler, durable, escape,
+        // pusher, initiator
         attack: <string>, // 'melee' or 'ranged'
         primaryAttribute: <string> // 'agility', 'strength' or 'intellect'
     }

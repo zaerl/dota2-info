@@ -1,10 +1,14 @@
 module.exports = {
   env: {
-    es6: true,
-    node: true
+    node: true,
+    es6: true
+  },
+  parserOptions: {
+    ecmaVersion: 8
   },
   extends: 'eslint:recommended',
   rules: {
+    'no-console': 0,
     'no-empty': 0,
     indent: [
       'error',
@@ -18,10 +22,10 @@ module.exports = {
       'error',
       'single',
       {
-        'allowTemplateLiterals': true
+        allowTemplateLiterals: true
       }
     ],
-    'semi': [
+    semi: [
       'error',
       'always'
     ],

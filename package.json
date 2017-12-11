@@ -1,6 +1,6 @@
 {
   "name": "dota2-info",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Retrieve info about Dota 2 heroes",
   "main": "lib",
   "scripts": {

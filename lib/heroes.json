@@ -6,7 +6,7 @@
     "aliases": [
       "am"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 3,
       "escape": 3,
@@ -17,11 +17,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 315,
+    "movementSpeed": 310,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Anti-Mage/"
+    "complexity": 1
   },
   {
     "id": 2,
@@ -43,8 +42,7 @@
     "movementSpeed": 290,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Axe/"
+    "complexity": 1
   },
   {
     "id": 3,
@@ -66,8 +64,7 @@
     "movementSpeed": 310,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Bane/"
+    "complexity": 2
   },
   {
     "id": 4,
@@ -89,20 +86,20 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 290,
+    "movementSpeed": 285,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Bloodseeker/"
+    "complexity": 1
   },
   {
     "id": 5,
     "code": "npc_dota_hero_crystal_maiden",
     "name": "Crystal Maiden",
     "aliases": [
-      "cm"
+      "cm",
+      "rylai"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 3,
       "disabler": 2,
@@ -114,18 +111,17 @@
     "attackRate": 1,
     "attackRange": 600,
     "projectileSpeed": 900,
-    "movementSpeed": 280,
+    "movementSpeed": 275,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Crystal_Maiden/"
+    "complexity": 1
   },
   {
     "id": 6,
     "code": "npc_dota_hero_drow_ranger",
     "name": "Drow Ranger",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "disabler": 1,
@@ -136,18 +132,17 @@
     "attackRate": 1,
     "attackRange": 625,
     "projectileSpeed": 1250,
-    "movementSpeed": 290,
+    "movementSpeed": 285,
     "movementTurnRate": 0.7,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Drow_Ranger/"
+    "complexity": 1
   },
   {
     "id": 7,
     "code": "npc_dota_hero_earthshaker",
     "name": "Earthshaker",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 1,
       "initiator": 3,
@@ -162,15 +157,14 @@
     "movementSpeed": 310,
     "movementTurnRate": 0.9,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Earthshaker/"
+    "complexity": 2
   },
   {
     "id": 8,
     "code": "npc_dota_hero_juggernaut",
     "name": "Juggernaut",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "pusher": 1,
@@ -181,18 +175,17 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 305,
+    "movementSpeed": 295,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Juggernaut/"
+    "complexity": 1
   },
   {
     "id": 9,
     "code": "npc_dota_hero_mirana",
     "name": "Mirana",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 1,
       "support": 1,
@@ -205,11 +198,10 @@
     "attackRate": 1,
     "attackRange": 630,
     "projectileSpeed": 900,
-    "movementSpeed": 300,
-    "movementTurnRate": 0.4,
+    "movementSpeed": 295,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Mirana/"
+    "complexity": 2
   },
   {
     "id": 11,
@@ -228,18 +220,17 @@
     "attackRate": 1,
     "attackRange": 500,
     "projectileSpeed": 1200,
-    "movementSpeed": 315,
+    "movementSpeed": 310,
     "movementTurnRate": 1,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Shadow_Fiend/"
+    "complexity": 2
   },
   {
     "id": 10,
     "code": "npc_dota_hero_morphling",
     "name": "Morphling",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 3,
       "escape": 3,
@@ -252,11 +243,10 @@
     "attackRate": 1,
     "attackRange": 350,
     "projectileSpeed": 1300,
-    "movementSpeed": 285,
+    "movementSpeed": 280,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 3,
-    "url": "https://www.dota2.com/hero/Morphling/"
+    "complexity": 3
   },
   {
     "id": 12,
@@ -265,7 +255,7 @@
     "aliases": [
       "pl"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "escape": 2,
@@ -277,18 +267,17 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 290,
+    "movementSpeed": 285,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Phantom_Lancer/"
+    "complexity": 2
   },
   {
     "id": 13,
     "code": "npc_dota_hero_puck",
     "name": "Puck",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "initiator": 3,
       "disabler": 3,
@@ -301,10 +290,9 @@
     "attackRange": 550,
     "projectileSpeed": 900,
     "movementSpeed": 295,
-    "movementTurnRate": 0.4,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Puck/"
+    "complexity": 2
   },
   {
     "id": 14,
@@ -323,11 +311,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 285,
+    "movementSpeed": 280,
     "movementTurnRate": 0.7,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Pudge/"
+    "complexity": 2
   },
   {
     "id": 15,
@@ -346,11 +333,10 @@
     "attackRate": 1,
     "attackRange": 475,
     "projectileSpeed": 2000,
-    "movementSpeed": 295,
-    "movementTurnRate": 0.4,
+    "movementSpeed": 285,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Razor/"
+    "complexity": 1
   },
   {
     "id": 16,
@@ -375,17 +361,17 @@
     "movementSpeed": 295,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Sand_King/"
+    "complexity": 2
   },
   {
     "id": 17,
     "code": "npc_dota_hero_storm_spirit",
     "name": "Storm Spirit",
     "aliases": [
-      "ss"
+      "ss",
+      "raijin"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "escape": 3,
@@ -401,15 +387,14 @@
     "movementSpeed": 285,
     "movementTurnRate": 0.8,
     "cmEnabled": true,
-    "complexity": 3,
-    "url": "https://www.dota2.com/hero/Storm_Spirit/"
+    "complexity": 3
   },
   {
     "id": 18,
     "code": "npc_dota_hero_sven",
     "name": "Sven",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "disabler": 2,
@@ -425,15 +410,14 @@
     "movementSpeed": 290,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Sven/"
+    "complexity": 1
   },
   {
     "id": 19,
     "code": "npc_dota_hero_tiny",
     "name": "Tiny",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 3,
       "nuker": 2,
@@ -450,8 +434,7 @@
     "movementSpeed": 285,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Tiny/"
+    "complexity": 1
   },
   {
     "id": 20,
@@ -460,7 +443,7 @@
     "aliases": [
       "vs"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 3,
       "initiator": 2,
@@ -473,11 +456,10 @@
     "attackRate": 1,
     "attackRange": 400,
     "projectileSpeed": 1500,
-    "movementSpeed": 300,
+    "movementSpeed": 295,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Vengeful_Spirit/"
+    "complexity": 1
   },
   {
     "id": 21,
@@ -486,7 +468,7 @@
     "aliases": [
       "wr"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 1,
       "support": 1,
@@ -500,17 +482,16 @@
     "attackRange": 600,
     "projectileSpeed": 1250,
     "movementSpeed": 295,
-    "movementTurnRate": 0.6,
+    "movementTurnRate": 0.8,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Windranger/"
+    "complexity": 2
   },
   {
     "id": 22,
     "code": "npc_dota_hero_zuus",
     "name": "Zeus",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "nuker": 3
     },
@@ -519,18 +500,17 @@
     "attackRate": 1,
     "attackRange": 350,
     "projectileSpeed": 1100,
-    "movementSpeed": 295,
+    "movementSpeed": 300,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Zeus/"
+    "complexity": 1
   },
   {
     "id": 23,
     "code": "npc_dota_hero_kunkka",
     "name": "Kunkka",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 1,
       "disabler": 1,
@@ -546,15 +526,14 @@
     "movementSpeed": 300,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Kunkka/"
+    "complexity": 2
   },
   {
     "id": 25,
     "code": "npc_dota_hero_lina",
     "name": "Lina",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 1,
       "carry": 1,
@@ -569,8 +548,7 @@
     "movementSpeed": 295,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Lina/"
+    "complexity": 1
   },
   {
     "id": 31,
@@ -590,8 +568,7 @@
     "movementSpeed": 315,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Lich/"
+    "complexity": 1
   },
   {
     "id": 26,
@@ -613,8 +590,7 @@
     "movementSpeed": 290,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Lion/"
+    "complexity": 1
   },
   {
     "id": 27,
@@ -623,7 +599,7 @@
     "aliases": [
       "ss"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 2,
       "pusher": 3,
@@ -634,13 +610,12 @@
     "primaryAttribute": "intellect",
     "attack": "ranged",
     "attackRate": 1,
-    "attackRange": 500,
+    "attackRange": 400,
     "projectileSpeed": 900,
     "movementSpeed": 285,
-    "movementTurnRate": 0.4,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Shadow_Shaman/"
+    "complexity": 1
   },
   {
     "id": 28,
@@ -663,8 +638,7 @@
     "movementSpeed": 290,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Slardar/"
+    "complexity": 1
   },
   {
     "id": 29,
@@ -684,10 +658,9 @@
     "attackRange": 150,
     "projectileSpeed": 0,
     "movementSpeed": 305,
-    "movementTurnRate": 0.4,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Tidehunter/"
+    "complexity": 1
   },
   {
     "id": 30,
@@ -708,17 +681,16 @@
     "attackRange": 600,
     "projectileSpeed": 1200,
     "movementSpeed": 305,
-    "movementTurnRate": 0.4,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Witch_Doctor/"
+    "complexity": 1
   },
   {
     "id": 32,
     "code": "npc_dota_hero_riki",
     "name": "Riki",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "escape": 2,
@@ -729,11 +701,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 290,
+    "movementSpeed": 275,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Riki/"
+    "complexity": 1
   },
   {
     "id": 33,
@@ -755,15 +726,14 @@
     "movementSpeed": 300,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Enigma/"
+    "complexity": 2
   },
   {
     "id": 34,
     "code": "npc_dota_hero_tinker",
     "name": "Tinker",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 1,
       "nuker": 3,
@@ -777,15 +747,14 @@
     "movementSpeed": 305,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Tinker/"
+    "complexity": 2
   },
   {
     "id": 35,
     "code": "npc_dota_hero_sniper",
     "name": "Sniper",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 3,
       "nuker": 1
@@ -795,11 +764,10 @@
     "attackRate": 1,
     "attackRange": 550,
     "projectileSpeed": 3000,
-    "movementSpeed": 290,
+    "movementSpeed": 285,
     "movementTurnRate": 0.7,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Sniper/"
+    "complexity": 1
   },
   {
     "id": 36,
@@ -818,11 +786,10 @@
     "attackRate": 1,
     "attackRange": 550,
     "projectileSpeed": 900,
-    "movementSpeed": 290,
+    "movementSpeed": 285,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Necrophos/"
+    "complexity": 1
   },
   {
     "id": 37,
@@ -841,10 +808,9 @@
     "attackRange": 600,
     "projectileSpeed": 1200,
     "movementSpeed": 295,
-    "movementTurnRate": 0.4,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Warlock/"
+    "complexity": 1
   },
   {
     "id": 38,
@@ -853,7 +819,7 @@
     "aliases": [
       "bm"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "initiator": 2,
       "disabler": 2,
@@ -866,10 +832,9 @@
     "attackRange": 150,
     "projectileSpeed": 0,
     "movementSpeed": 310,
-    "movementTurnRate": 0.4,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Beastmaster/"
+    "complexity": 2
   },
   {
     "id": 39,
@@ -892,8 +857,7 @@
     "movementSpeed": 295,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Queen_of_Pain/"
+    "complexity": 2
   },
   {
     "id": 40,
@@ -913,11 +877,10 @@
     "attackRate": 1,
     "attackRange": 450,
     "projectileSpeed": 900,
-    "movementSpeed": 285,
-    "movementTurnRate": 0.4,
+    "movementSpeed": 275,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Venomancer/"
+    "complexity": 1
   },
   {
     "id": 41,
@@ -939,11 +902,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 300,
+    "movementSpeed": 295,
     "movementTurnRate": 1,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Faceless_Void/"
+    "complexity": 2
   },
   {
     "id": 42,
@@ -968,10 +930,9 @@
     "attackRange": 150,
     "projectileSpeed": 0,
     "movementSpeed": 300,
-    "movementTurnRate": 0.4,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Wraith_King/"
+    "complexity": 1
   },
   {
     "id": 43,
@@ -995,15 +956,15 @@
     "movementSpeed": 310,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Death_Prophet/"
+    "complexity": 1
   },
   {
     "id": 44,
     "code": "npc_dota_hero_phantom_assassin",
     "name": "Phantom Assassin",
     "aliases": [
-      "pa"
+      "pa",
+      "mortred"
     ],
     "team": "dire",
     "roles": {
@@ -1015,11 +976,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 310,
+    "movementSpeed": 305,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Phantom_Assassin/"
+    "complexity": 1
   },
   {
     "id": 45,
@@ -1034,20 +994,21 @@
     "primaryAttribute": "intellect",
     "attack": "ranged",
     "attackRate": 1,
-    "attackRange": 600,
+    "attackRange": 630,
     "projectileSpeed": 900,
-    "movementSpeed": 330,
+    "movementSpeed": 335,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Pugna/"
+    "complexity": 2
   },
   {
     "id": 46,
     "code": "npc_dota_hero_templar_assassin",
     "name": "Templar Assassin",
-    "aliases": [],
-    "team": "dire",
+    "aliases": [
+      "ta"
+    ],
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "escape": 1
@@ -1057,11 +1018,10 @@
     "attackRate": 1,
     "attackRange": 140,
     "projectileSpeed": 900,
-    "movementSpeed": 305,
+    "movementSpeed": 300,
     "movementTurnRate": 0.7,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Templar_Assassin/"
+    "complexity": 2
   },
   {
     "id": 47,
@@ -1080,18 +1040,17 @@
     "attackRate": 1,
     "attackRange": 575,
     "projectileSpeed": 1200,
-    "movementSpeed": 285,
-    "movementTurnRate": 0.4,
+    "movementSpeed": 275,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Viper/"
+    "complexity": 1
   },
   {
     "id": 48,
     "code": "npc_dota_hero_luna",
     "name": "Luna",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "nuker": 2,
@@ -1102,11 +1061,10 @@
     "attackRate": 1,
     "attackRange": 330,
     "projectileSpeed": 900,
-    "movementSpeed": 335,
+    "movementSpeed": 330,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Luna/"
+    "complexity": 1
   },
   {
     "id": 49,
@@ -1115,7 +1073,7 @@
     "aliases": [
       "dk"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "pusher": 3,
@@ -1132,8 +1090,7 @@
     "movementSpeed": 290,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Dragon_Knight/"
+    "complexity": 1
   },
   {
     "id": 50,
@@ -1154,15 +1111,14 @@
     "movementSpeed": 305,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Dazzle/"
+    "complexity": 1
   },
   {
     "id": 51,
     "code": "npc_dota_hero_rattletrap",
     "name": "Clockwerk",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "initiator": 3,
       "disabler": 2,
@@ -1177,8 +1133,7 @@
     "movementSpeed": 315,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Clockwerk/"
+    "complexity": 2
   },
   {
     "id": 52,
@@ -1201,17 +1156,16 @@
     "movementSpeed": 325,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Leshrac/"
+    "complexity": 1
   },
   {
     "id": 53,
     "code": "npc_dota_hero_furion",
-    "name": "Natures Prophet",
+    "name": "Nature's Prophet",
     "aliases": [
       "np"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 1,
       "jungler": 3,
@@ -1224,11 +1178,10 @@
     "attackRate": 1,
     "attackRange": 600,
     "projectileSpeed": 1125,
-    "movementSpeed": 295,
+    "movementSpeed": 290,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Natures_Prophet/"
+    "complexity": 2
   },
   {
     "id": 54,
@@ -1251,8 +1204,7 @@
     "movementSpeed": 315,
     "movementTurnRate": 1,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Lifestealer/"
+    "complexity": 2
   },
   {
     "id": 55,
@@ -1273,11 +1225,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 300,
+    "movementSpeed": 295,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Dark_Seer/"
+    "complexity": 1
   },
   {
     "id": 56,
@@ -1295,18 +1246,17 @@
     "attackRate": 1,
     "attackRange": 640,
     "projectileSpeed": 900,
-    "movementSpeed": 300,
-    "movementTurnRate": 0.4,
+    "movementSpeed": 295,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Clinkz/"
+    "complexity": 2
   },
   {
     "id": 57,
     "code": "npc_dota_hero_omniknight",
     "name": "Omniknight",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 2,
       "durable": 1,
@@ -1320,15 +1270,14 @@
     "movementSpeed": 305,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Omniknight/"
+    "complexity": 1
   },
   {
     "id": 58,
     "code": "npc_dota_hero_enchantress",
     "name": "Enchantress",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 2,
       "jungler": 3,
@@ -1341,18 +1290,17 @@
     "attackRate": 1,
     "attackRange": 550,
     "projectileSpeed": 900,
-    "movementSpeed": 335,
-    "movementTurnRate": 0.4,
+    "movementSpeed": 340,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Enchantress/"
+    "complexity": 2
   },
   {
     "id": 59,
     "code": "npc_dota_hero_huskar",
     "name": "Huskar",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "durable": 2,
@@ -1363,11 +1311,10 @@
     "attackRate": 1,
     "attackRange": 400,
     "projectileSpeed": 1400,
-    "movementSpeed": 300,
+    "movementSpeed": 295,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Huskar/"
+    "complexity": 1
   },
   {
     "id": 60,
@@ -1392,8 +1339,7 @@
     "movementSpeed": 295,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Night_Stalker/"
+    "complexity": 1
   },
   {
     "id": 61,
@@ -1414,11 +1360,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 295,
+    "movementSpeed": 270,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Broodmother/"
+    "complexity": 2
   },
   {
     "id": 62,
@@ -1427,7 +1372,7 @@
     "aliases": [
       "bh"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "escape": 2,
       "nuker": 1
@@ -1440,8 +1385,7 @@
     "movementSpeed": 315,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Bounty_Hunter/"
+    "complexity": 1
   },
   {
     "id": 63,
@@ -1458,18 +1402,17 @@
     "attackRate": 1,
     "attackRange": 425,
     "projectileSpeed": 900,
-    "movementSpeed": 290,
+    "movementSpeed": 280,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Weaver/"
+    "complexity": 2
   },
   {
     "id": 64,
     "code": "npc_dota_hero_jakiro",
     "name": "Jakiro",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 1,
       "nuker": 2,
@@ -1484,8 +1427,7 @@
     "movementSpeed": 290,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Jakiro/"
+    "complexity": 1
   },
   {
     "id": 65,
@@ -1509,15 +1451,14 @@
     "movementSpeed": 290,
     "movementTurnRate": 1,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Batrider/"
+    "complexity": 2
   },
   {
     "id": 66,
     "code": "npc_dota_hero_chen",
     "name": "Chen",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 2,
       "jungler": 3,
@@ -1526,13 +1467,12 @@
     "primaryAttribute": "intellect",
     "attack": "ranged",
     "attackRate": 1,
-    "attackRange": 600,
+    "attackRange": 650,
     "projectileSpeed": 1100,
     "movementSpeed": 300,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 3,
-    "url": "https://www.dota2.com/hero/Chen/"
+    "complexity": 3
   },
   {
     "id": 67,
@@ -1550,11 +1490,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 290,
-    "movementTurnRate": 0.4,
+    "movementSpeed": 285,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Spectre/"
+    "complexity": 2
   },
   {
     "id": 69,
@@ -1579,8 +1518,7 @@
     "movementSpeed": 290,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Doom/"
+    "complexity": 2
   },
   {
     "id": 68,
@@ -1598,20 +1536,19 @@
     "primaryAttribute": "intellect",
     "attack": "ranged",
     "attackRate": 1,
-    "attackRange": 600,
+    "attackRange": 675,
     "projectileSpeed": 1250,
     "movementSpeed": 295,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Ancient_Apparition/"
+    "complexity": 2
   },
   {
     "id": 70,
     "code": "npc_dota_hero_ursa",
     "name": "Ursa",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "jungler": 1,
@@ -1623,11 +1560,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 310,
+    "movementSpeed": 305,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Ursa/"
+    "complexity": 1
   },
   {
     "id": 71,
@@ -1649,18 +1585,17 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 290,
-    "movementTurnRate": 0.4,
+    "movementSpeed": 285,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Spirit_Breaker/"
+    "complexity": 1
   },
   {
     "id": 72,
     "code": "npc_dota_hero_gyrocopter",
     "name": "Gyrocopter",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 3,
       "nuker": 1,
@@ -1671,18 +1606,17 @@
     "attackRate": 1,
     "attackRange": 365,
     "projectileSpeed": 3000,
-    "movementSpeed": 315,
+    "movementSpeed": 320,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Gyrocopter/"
+    "complexity": 1
   },
   {
     "id": 73,
     "code": "npc_dota_hero_alchemist",
     "name": "Alchemist",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "support": 1,
@@ -1699,8 +1633,7 @@
     "movementSpeed": 295,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Alchemist/"
+    "complexity": 1
   },
   {
     "id": 74,
@@ -1723,15 +1656,14 @@
     "movementSpeed": 280,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 3,
-    "url": "https://www.dota2.com/hero/Invoker/"
+    "complexity": 3
   },
   {
     "id": 75,
     "code": "npc_dota_hero_silencer",
     "name": "Silencer",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 1,
       "support": 1,
@@ -1747,8 +1679,7 @@
     "movementSpeed": 295,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Silencer/"
+    "complexity": 2
   },
   {
     "id": 76,
@@ -1771,8 +1702,7 @@
     "movementSpeed": 315,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Outworld_Devourer/"
+    "complexity": 2
   },
   {
     "id": 77,
@@ -1795,8 +1725,7 @@
     "movementSpeed": 305,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Lycan/"
+    "complexity": 2
   },
   {
     "id": 78,
@@ -1805,7 +1734,7 @@
     "aliases": [
       "bm"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 1,
       "initiator": 3,
@@ -1821,8 +1750,7 @@
     "movementSpeed": 300,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 3,
-    "url": "https://www.dota2.com/hero/Brewmaster/"
+    "complexity": 3
   },
   {
     "id": 79,
@@ -1846,8 +1774,7 @@
     "movementSpeed": 295,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Shadow_Demon/"
+    "complexity": 2
   },
   {
     "id": 80,
@@ -1856,7 +1783,7 @@
     "aliases": [
       "ld"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "pusher": 3,
@@ -1868,17 +1795,18 @@
     "attackRate": 1,
     "attackRange": 550,
     "projectileSpeed": 900,
-    "movementSpeed": 325,
-    "movementTurnRate": 0.4,
+    "movementSpeed": 320,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 3,
-    "url": "https://www.dota2.com/hero/Lone_Druid/"
+    "complexity": 3
   },
   {
     "id": 81,
     "code": "npc_dota_hero_chaos_knight",
     "name": "Chaos Knight",
-    "aliases": [],
+    "aliases": [
+      "ck"
+    ],
     "team": "dire",
     "roles": {
       "carry": 3,
@@ -1895,8 +1823,7 @@
     "movementSpeed": 325,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Chaos_Knight/"
+    "complexity": 1
   },
   {
     "id": 82,
@@ -1920,18 +1847,17 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 315,
+    "movementSpeed": 310,
     "movementTurnRate": 0.65,
     "cmEnabled": true,
-    "complexity": 3,
-    "url": "https://www.dota2.com/hero/Meepo/"
+    "complexity": 3
   },
   {
     "id": 83,
     "code": "npc_dota_hero_treant",
     "name": "Treant Protector",
     "aliases": [],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 3,
       "initiator": 2,
@@ -1944,11 +1870,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 295,
+    "movementSpeed": 270,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Treant_Protector/"
+    "complexity": 2
   },
   {
     "id": 84,
@@ -1957,7 +1882,7 @@
     "aliases": [
       "om"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 2,
       "nuker": 2,
@@ -1970,11 +1895,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 290,
+    "movementSpeed": 285,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Ogre_Magi/"
+    "complexity": 1
   },
   {
     "id": 85,
@@ -1998,8 +1922,7 @@
     "movementSpeed": 310,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Undying/"
+    "complexity": 1
   },
   {
     "id": 86,
@@ -2008,7 +1931,7 @@
     "aliases": [
       "rubick"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 2,
       "disabler": 1,
@@ -2017,13 +1940,12 @@
     "primaryAttribute": "intellect",
     "attack": "ranged",
     "attackRate": 1,
-    "attackRange": 600,
+    "attackRange": 550,
     "projectileSpeed": 1125,
     "movementSpeed": 290,
     "movementTurnRate": 0.7,
     "cmEnabled": true,
-    "complexity": 3,
-    "url": "https://www.dota2.com/hero/Rubick/"
+    "complexity": 3
   },
   {
     "id": 87,
@@ -2032,7 +1954,7 @@
     "aliases": [
       "disruptor"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 2,
       "disabler": 2,
@@ -2047,8 +1969,7 @@
     "movementSpeed": 300,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Disruptor/"
+    "complexity": 2
   },
   {
     "id": 88,
@@ -2069,11 +1990,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 305,
+    "movementSpeed": 295,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Nyx_Assassin/"
+    "complexity": 2
   },
   {
     "id": 89,
@@ -2096,11 +2016,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 320,
+    "movementSpeed": 315,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Naga_Siren/"
+    "complexity": 2
   },
   {
     "id": 90,
@@ -2108,9 +2027,10 @@
     "name": "Keeper of the Light",
     "aliases": [
       "keeper",
-      "ezalor"
+      "ezalor",
+      "kotl"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 3,
       "nuker": 2,
@@ -2125,8 +2045,7 @@
     "movementSpeed": 335,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Keeper_of_the_Light/"
+    "complexity": 2
   },
   {
     "id": 91,
@@ -2135,7 +2054,7 @@
     "aliases": [
       "wisp"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 3,
       "escape": 2,
@@ -2149,8 +2068,7 @@
     "movementSpeed": 295,
     "movementTurnRate": 0.7,
     "cmEnabled": true,
-    "complexity": 3,
-    "url": "https://www.dota2.com/hero/Io/"
+    "complexity": 3
   },
   {
     "id": 92,
@@ -2175,8 +2093,7 @@
     "movementSpeed": 285,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 3,
-    "url": "https://www.dota2.com/hero/Visage/"
+    "complexity": 3
   },
   {
     "id": 93,
@@ -2197,11 +2114,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 305,
+    "movementSpeed": 295,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Slark/"
+    "complexity": 1
   },
   {
     "id": 94,
@@ -2222,11 +2138,10 @@
     "attackRate": 1,
     "attackRange": 600,
     "projectileSpeed": 1200,
-    "movementSpeed": 290,
+    "movementSpeed": 285,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Medusa/"
+    "complexity": 1
   },
   {
     "id": 95,
@@ -2236,7 +2151,7 @@
       "troll",
       "jahrakal"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 3,
       "pusher": 2,
@@ -2248,11 +2163,10 @@
     "attackRate": 1,
     "attackRange": 500,
     "projectileSpeed": 1200,
-    "movementSpeed": 300,
+    "movementSpeed": 295,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Troll_Warlord/"
+    "complexity": 2
   },
   {
     "id": 96,
@@ -2261,7 +2175,7 @@
     "aliases": [
       "centaur"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "durable": 3,
       "initiator": 3,
@@ -2277,8 +2191,7 @@
     "movementSpeed": 300,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Centaur_Warrunner/"
+    "complexity": 1
   },
   {
     "id": 97,
@@ -2300,11 +2213,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 315,
+    "movementSpeed": 310,
     "movementTurnRate": 0.8,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Magnus/"
+    "complexity": 2
   },
   {
     "id": 98,
@@ -2315,7 +2227,7 @@
       "Shredder",
       "Timbersaw"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "nuker": 3,
       "durable": 2,
@@ -2329,8 +2241,7 @@
     "movementSpeed": 290,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Timbersaw/"
+    "complexity": 2
   },
   {
     "id": 99,
@@ -2340,7 +2251,7 @@
       "Rigwarl",
       "bb"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "durable": 3,
@@ -2355,8 +2266,7 @@
     "movementSpeed": 290,
     "movementTurnRate": 1,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Bristleback/"
+    "complexity": 1
   },
   {
     "id": 100,
@@ -2365,7 +2275,7 @@
     "aliases": [
       "Tuskarr"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "initiator": 2,
       "disabler": 2,
@@ -2379,15 +2289,16 @@
     "movementSpeed": 300,
     "movementTurnRate": 0.7,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Tusk/"
+    "complexity": 1
   },
   {
     "id": 101,
     "code": "npc_dota_hero_skywrath_mage",
     "name": "Skywrath Mage",
-    "aliases": [],
-    "team": "dire",
+    "aliases": [
+      "dragonus"
+    ],
+    "team": "radiant",
     "roles": {
       "support": 2,
       "nuker": 3,
@@ -2398,11 +2309,10 @@
     "attackRate": 1,
     "attackRange": 600,
     "projectileSpeed": 1000,
-    "movementSpeed": 325,
+    "movementSpeed": 330,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Skywrath_Mage/"
+    "complexity": 1
   },
   {
     "id": 102,
@@ -2425,8 +2335,7 @@
     "movementSpeed": 310,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Abaddon/"
+    "complexity": 1
   },
   {
     "id": 103,
@@ -2436,7 +2345,7 @@
       "TC",
       "Cairne"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "initiator": 2,
       "disabler": 1,
@@ -2449,10 +2358,9 @@
     "attackRange": 150,
     "projectileSpeed": 0,
     "movementSpeed": 315,
-    "movementTurnRate": 0.4,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Elder_Titan/"
+    "complexity": 2
   },
   {
     "id": 104,
@@ -2462,7 +2370,7 @@
       "Tresdin",
       "Legion"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 1,
       "disabler": 2,
@@ -2478,8 +2386,7 @@
     "movementSpeed": 320,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 1,
-    "url": "https://www.dota2.com/hero/Legion_Commander/"
+    "complexity": 1
   },
   {
     "id": 106,
@@ -2489,7 +2396,7 @@
       "Xin",
       "Ember"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "escape": 3,
@@ -2502,11 +2409,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 310,
+    "movementSpeed": 305,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Ember_Spirit/"
+    "complexity": 2
   },
   {
     "id": 107,
@@ -2516,7 +2422,7 @@
       "Kaolin",
       "Earth"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "nuker": 2,
       "escape": 2,
@@ -2529,11 +2435,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 295,
+    "movementSpeed": 290,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 3,
-    "url": "https://www.dota2.com/hero/Earth_Spirit/"
+    "complexity": 3
   },
   {
     "id": 109,
@@ -2553,11 +2458,10 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 900,
-    "movementSpeed": 315,
+    "movementSpeed": 310,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Terrorblade/"
+    "complexity": 2
   },
   {
     "id": 110,
@@ -2566,7 +2470,7 @@
     "aliases": [
       "ph"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 1,
       "nuker": 3,
@@ -2582,8 +2486,7 @@
     "movementSpeed": 285,
     "movementTurnRate": 1,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Phoenix/"
+    "complexity": 2
   },
   {
     "id": 111,
@@ -2592,7 +2495,7 @@
     "aliases": [
       "ora"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "support": 3,
       "nuker": 3,
@@ -2605,10 +2508,9 @@
     "attackRange": 620,
     "projectileSpeed": 900,
     "movementSpeed": 305,
-    "movementTurnRate": 0.4,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 3,
-    "url": "https://www.dota2.com/hero/Oracle/"
+    "complexity": 3
   },
   {
     "id": 105,
@@ -2628,8 +2530,7 @@
     "movementSpeed": 270,
     "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Techies/"
+    "complexity": 2
   },
   {
     "id": 112,
@@ -2648,10 +2549,9 @@
     "attackRange": 425,
     "projectileSpeed": 700,
     "movementSpeed": 285,
-    "movementTurnRate": 0.4,
+    "movementTurnRate": 0.5,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Winter_Wyvern/"
+    "complexity": 2
   },
   {
     "id": 113,
@@ -2671,11 +2571,10 @@
     "attackRate": 1,
     "attackRange": 625,
     "projectileSpeed": 900,
-    "movementSpeed": 285,
-    "movementTurnRate": 0.4,
+    "movementSpeed": 280,
+    "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 3,
-    "url": "https://www.dota2.com/hero/Arc_Warden/"
+    "complexity": 3
   },
   {
     "id": 108,
@@ -2698,20 +2597,19 @@
     "attackRate": 1,
     "attackRange": 150,
     "projectileSpeed": 0,
-    "movementSpeed": 305,
+    "movementSpeed": 290,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/Underlord/"
+    "complexity": 2
   },
   {
     "id": 114,
     "code": "npc_dota_hero_monkey_king",
-    "name": "MonkeyKing",
+    "name": "Monkey King",
     "aliases": [
       "mk"
     ],
-    "team": "dire",
+    "team": "radiant",
     "roles": {
       "carry": 2,
       "escape": 2,
@@ -2723,10 +2621,57 @@
     "attackRate": 1,
     "attackRange": 300,
     "projectileSpeed": 0,
-    "movementSpeed": 305,
+    "movementSpeed": 300,
     "movementTurnRate": 0.6,
     "cmEnabled": true,
-    "complexity": 2,
-    "url": "https://www.dota2.com/hero/MonkeyKing/"
+    "complexity": 2
+  },
+  {
+    "id": 120,
+    "code": "npc_dota_hero_pangolier",
+    "name": "Pangolier",
+    "aliases": [
+      "ar"
+    ],
+    "team": "radiant",
+    "roles": {
+      "carry": 2,
+      "nuker": 2,
+      "disabler": 1,
+      "durable": 1,
+      "escape": 2,
+      "initiator": 2
+    },
+    "primaryAttribute": "agility",
+    "attack": "melee",
+    "attackRate": 1,
+    "attackRange": 150,
+    "projectileSpeed": 0,
+    "movementSpeed": 305,
+    "movementTurnRate": 1,
+    "cmEnabled": true,
+    "complexity": 2
+  },
+  {
+    "id": 119,
+    "code": "npc_dota_hero_dark_willow",
+    "name": "Dark Willow",
+    "aliases": [],
+    "team": "radiant",
+    "roles": {
+      "support": 2,
+      "nuker": 2,
+      "disabler": 1,
+      "escape": 2
+    },
+    "primaryAttribute": "intellect",
+    "attack": "ranged",
+    "attackRate": 1,
+    "attackRange": 475,
+    "projectileSpeed": 1200,
+    "movementSpeed": 295,
+    "movementTurnRate": 0.7,
+    "cmEnabled": true,
+    "complexity": 2
   }
 ]

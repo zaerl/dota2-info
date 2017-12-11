@@ -24,7 +24,7 @@
   "devDependencies": {
     "ava": "^0.17.0",
     "vdf": "0.0.2",
-    "where-is-steam": "^0.1.0"
+    "where-is-steam": "^0.1.1"
   },
   "engines": {
     "node": ">=4.3.2"
